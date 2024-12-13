@@ -12,9 +12,9 @@
 	<array>
 		<string>applinks:app.ensembleui.com</string>
 	</array>
-    <key>com.apple.security.personal-information.location</key>
-    <true/>
-    <key>com.apple.developer.networking.wifi-info</key>
-    <true/>
+	<key>com.apple.developer.networking.wifi-info</key>
+	<true/>
+	<key>com.apple.security.personal-information.location</key>
+	<true/>
 </dict>
 </plist>
